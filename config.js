@@ -10,34 +10,34 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
-global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.owner = ['628975217200']
+global.pengguna = 'wanda prasetya'
+global.premium = ['628975217200']
+global.author = 'wanda'
+global.pemilik = ['628975217200'] 
+global.ownernomer = '628975217200'
+global.ownername = 'wanda prasetya'
+global.botname = 'SANS BOT'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.footer = 'wanda cakep'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'wanda prasetya' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
-global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.yt = 'https://www.youtube.com/wanda prasetya' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/wnd.prfct'
+global.gc = 'https://chat.whatsapp.com/G4caNsTibz79IdsA4rVVIJ' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '08975217200'
+global.gopay = 'lom punya'
+global.wame = 'wa.me/628975217200'
+global.email = 'prwsetya@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
-global.author = '' 
+global.sc = 'https://youtube.com/wanda prasetya'
+global.packname = '"{\nAuthor: Wanda"\n"Bot Number: 628975217200"\n"Bot Name: SANS BOT"\n"Instagram: @wnd.prfct"\n}' 
+global.author = 'wanda ganteng' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
@@ -53,14 +53,14 @@ global.mess = {
     error: 'Fitur sedang error!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
-    example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
+    example1: 'Selamat Datang Beban Dari Pada Lu Masuk Mending Cuma Keluar ,Cuma Jadi Sider doang v: @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
 ,
-    example2: 'Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
+    example2: 'Good Bye Nak Punguts @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
     
 }
     global.limitawal = {
     premium: "Unlimited",
-    free: 30,
+    free: 20,
     monayawal: 1000
 }
    global.rpg = {
@@ -396,7 +396,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 2K_\n   _• Sewa Bot 1 Bulan : 5K_\n   _• Sewa Bot 1 Tahun : 7K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
